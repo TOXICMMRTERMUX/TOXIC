@@ -10,5 +10,5 @@
 [![KEY](https://img.shields.io/badge/-KEY-brown)](https://t.me/KILLER_MY)
 
 
-## Languages used
+## Language used
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=blue)
