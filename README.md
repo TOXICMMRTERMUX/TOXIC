@@ -1,6 +1,10 @@
-# Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+profile)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0216F7&random=false&width=435&lines=HELLO+BROTHER)
+
+![Typing SVG](https://readme-typing-svg.herokuap.com?font=Fira+Code&size=30&pause=1000&color=F71111&random=false&width=435&lines=WELCOME)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71111&random=false&width=435&lines=THANK+FOR+VISITING+MY+GITHUB+PROFILE)
 
 ## 𝙻𝙸𝙽𝙺𝚂 :
 [![CHANNEL](https://img.shields.io/badge/-CHANNEL-red)](https://t.me/TERMUXTOOLMYANMAR)
@@ -8,8 +12,5 @@
 [![KEY](https://img.shields.io/badge/-KEY-brown)](https://t.me/KILLER_MY)
 
 
-## 𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝚅𝙸𝚂𝙸𝚃𝙸𝙽𝙶
-
-
 ## Languages used
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=blue)
